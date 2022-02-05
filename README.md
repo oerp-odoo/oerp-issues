@@ -1,2 +1,5 @@
-# oerp-issues
-TimeForDev Tickets
+# Repository to Register Odoo Modules Issues
+
+Modules to report:
+
+* mailerlite
